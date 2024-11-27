@@ -1,0 +1,10 @@
+.container {
+    margin-top: 100px;
+  }
+  
+  .ratings {
+    width: 200px;
+    display: flex;
+    align-items: center;
+  }
+  
